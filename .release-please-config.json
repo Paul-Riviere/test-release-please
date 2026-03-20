@@ -1,4 +1,5 @@
 {
+    "release-type": "simple",
     "include-v-in-tag": false,
     "initial-version": "0.0.1"
 }
