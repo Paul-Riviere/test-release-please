@@ -19,4 +19,3 @@ jobs:
           token: ${{ secrets.RELEASE_PLEASE_PAT }}
           config-file: .release-please-config.json
           release-type: simple
-          initial-version: 0.0.1
