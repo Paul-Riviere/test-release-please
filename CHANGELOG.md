@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/Paul-Riviere/test-release-please/compare/v1.0.0...v1.1.0) (2026-04-09)
+
+
+### Features
+
+* my feature 3 ([#3](https://github.com/Paul-Riviere/test-release-please/issues/3)) ([5ea7aa4](https://github.com/Paul-Riviere/test-release-please/commit/5ea7aa475cde2f839e39f58fdf74b53cd77f05f4))
+
+
+### Bug Fixes
+
+* my fix 1 ([#5](https://github.com/Paul-Riviere/test-release-please/issues/5)) ([508103b](https://github.com/Paul-Riviere/test-release-please/commit/508103b4ba71b648f58a8ad0e3774fbee0eaba46))
+
 ## 1.0.0 (2026-04-09)
 
 
