@@ -7,3 +7,5 @@ My awesome feature 2
 My breaking change
 
 My feature 3
+
+My fix 1
